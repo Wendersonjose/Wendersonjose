@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in programming and Python, as well as Power BI.
 - 🌱 I’m currently learning system analysis and development.
-- 💞️ I’m looking to collaborate on projects focused on programming for the agricultural sector.
+- 💞️ I’m looking to collaborate on projects focused on programming.
 - 📫 How to reach me: wenderson.teles@icloud.com
 ## Skills
 
@@ -13,8 +13,6 @@
 - **Testing Frameworks:** Chai, Mocha, Jest
 - **Programming Concepts:** Logic Programming, Software Engineering
 - **Other Areas:** Computer Networks, Internet Programming
-
----
 
 <!---
 Wendersonjose/Wendersonjose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
