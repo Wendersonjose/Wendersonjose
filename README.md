@@ -5,8 +5,7 @@
 - 👀 I’m interested in programming and Python, as well as Power BI.
 - 🌱 I’m currently learning system analysis and development.
 - 💞️ I’m looking to collaborate on projects focused on programming for the agricultural sector.
-- 📫 How to reach me: [email](mailto:wenderson.teles@icloud.com).
-
+- 📫 How to reach me: wenderson.teles@icloud.com
 ## Skills
 
 - **Languages:** HTML5, CSS, JavaScript (ES6, ES7), C#, C++, Java
