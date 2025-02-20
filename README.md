@@ -53,7 +53,9 @@
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" alt="Java" title="Java"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/javascript-3628858-3029998.png" alt="Javascript" title="Javascript"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/typescript-3629120-3030260.png" alt="Typescript" title="Typescript"/></code>
+<code><img height="32" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" title="Next.js"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/node-js-3521610-2945054.png" alt="Nodejs" title="Nodejs"/></code>
+<code><img height="32" src="https://nestjs.com/img/logo-small.svg" alt="NestJS" title="NestJS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" title="React"/></code></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-4-1175139.png" alt="MongoDB" title="MongoDB"/></code>
 <code><img height="32" src="https://img.icons8.com/plasticine/344/oracle-pl-sql--v3.png" alt="PL/SQL" title="PL/SQL"/></code>
