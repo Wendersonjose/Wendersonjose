@@ -3,7 +3,7 @@
 ## About Me
 
 - 👀 I’m interested in programming and Python, as well as Power BI.
-- 🧑‍💻 I’m interested in full-stack development with a focus on JavaScript.
+- 🧑‍💻 I’m interested in full-stack development.
 - 🌱 I’m currently learning system analysis and development.
 - 💞️ I’m looking to collaborate on projects focused on programming.
 - 📫 How to reach me: wenderson.teles@icloud.com
