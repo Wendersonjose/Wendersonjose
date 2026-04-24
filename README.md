@@ -1,21 +1,30 @@
-# 👋 Hi, I’m @Wendersonjose
+# 👋 Hi, I’m Wenderson
 
-## About Me
+## 🚀 Full Stack Developer (JavaScript | Java)
 
-- 👀 I’m interested in programming and Python, as well as Power BI.
-- 🧑‍💻 I’m interested in full-stack development.
-- 🌱 I’m currently learning system analysis and development.
-- 💞️ I’m looking to collaborate on projects focused on programming.
-- 📫 How to reach me: wenderson.teles@icloud.com
-## Skills
+I build real-world systems focused on scalability and clean architecture.  
+Currently developing **GarageFlow**, a SaaS for workshop management.
 
-- **Languages:** HTML5, CSS, JavaScript (ES6, ES7), C#, C++, Java
-- **Frameworks and Libraries:** ReactJS, Node.js
-- **Testing Frameworks:** Chai, Mocha, Jest
-- **Programming Concepts:** Logic Programming, Software Engineering
-- **Other Areas:** Computer Networks, Internet Programming
+---
 
-<!---
-Wendersonjose/Wendersonjose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 Tech Stack
+
+- **Frontend:** React.js, Next.js, JavaScript (ES6+)
+- **Backend:** Node.js, Express, Java (Spring Boot - learning)
+- **Database:** PostgreSQL, SQLite
+- **Tools:** Git, Docker, REST APIs
+
+---
+
+## 📌 Current Focus
+
+- Building scalable APIs
+- Backend architecture and best practices
+- System design for real-world applications
+
+---
+
+## 📫 Contact
+
+- Email: wenderson.teles@icloud.com
+- LinkedIn: https://www.linkedin.com/in/wenderson-jose
