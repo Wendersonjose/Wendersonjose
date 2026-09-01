@@ -27,7 +27,7 @@ Catálogo web desenvolvido para um negócio real, com busca de produtos e aplica
 
 **Tecnologias:** React, TypeScript, Node.js, PostgreSQL e deploy em nuvem.
 
-[Acessar o site](https://www.uberhidraulicapecas.com.br/) · [Repositório público da landing page](https://github.com/Wendersonjose/uber-hidraulica-site)
+[Acessar o site](https://www.uberhidraulicapecas.com.br/) · [Repositório público da landing page](https://github.com/Wendersonjose/uber-hidraulica-site) · [Estudo de caso técnico](docs/erp-uber-hidraulica.md)
 
 ### MECATEC Serviços — projeto para cliente
 
